@@ -39,4 +39,16 @@ Imagen
 Con respecto a la cuenca Bebedero EVI es de gran utilidad pues permite identificar áreas que conforman la cuenca con suelo desnudo y escasa vegetación, en contraste con las Áreas Protegidas caracterizadas de vegetación densa como las zonas cercanas a los volcanes Tenorio y Miravalle o el Parque Nacional Palo Verde.
 
 
-j
+## NDWI
+El Normalized Difference Water Index (NDWI) es un índice direccionado a identificar el agua y nivel de humedad en la vegetación y suelos. Fundamental para corroborar el estrés hídrico que sufre un área determinada.
+>*En índices vegetativos -1 a +1, estando los valores menores a 0 asociados a superficies brillantes, sin presencia de vegetación o agua y los mayores a 0 asociados a presencia de agua y vegetación (Segura, 2020, p.48-49).*
+Utiliza NIR: Banda infrarroja cercano junta a SWIR: Banda infrarroja de onda corta. Las bandas 8 y 11 en Landsat.
+En la cuenca se logran diferenciar zonas con agua y zonas de tierra seca, debido a la particularidad de la cuenca Bebedero este es uno de los índices en el cual mejor se aprecian los contrastes ya que posee una red hídrica muy amplia que desemboca en el río Tempisque y posteriormente en el estuario del Golfo de Nicoya. Los cuerpos de agua tienen una radiación baja y una fuerte absorción en el rango de longitudes de onda del infrarrojo visible.
+
+Imagen 
+> El trabajo desarrollado por Segura (2020) es un claro ejemplo de la utilidad de NDWI pues se presenta esa interacción con la unidad de suelo y el índice NDVI direccionando los esfuerzos para conocer el estrés hídrico que sufre el cultivo de caña de azúcar en la cuenca de Bebedero y Tempisque. La mayor cantidad de agua disponibles es utilizada para el riego de cultivos por ello resulta sumamente importante el monitoreo de estos cuerpos de agua.
+
+### NDWBI
+
+
+
