@@ -10,5 +10,6 @@ El propósito de esta práctica de laboratorio es brindarle un recorrido por los
 - Seleccione un área de estudio para implementar todos los índices (trabajar región
 Chorotega,para obtener más imágenes libre de nubes)
 
+![](Bebedero.png)
 - Escoja una cuenca hidrográfica, realice el corte para adaptar todas.
 
