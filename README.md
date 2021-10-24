@@ -49,6 +49,6 @@ Imagen
 > El trabajo desarrollado por Segura (2020) es un claro ejemplo de la utilidad de NDWI pues se presenta esa interacción con la unidad de suelo y el índice NDVI direccionando los esfuerzos para conocer el estrés hídrico que sufre el cultivo de caña de azúcar en la cuenca de Bebedero y Tempisque. La mayor cantidad de agua disponibles es utilizada para el riego de cultivos por ello resulta sumamente importante el monitoreo de estos cuerpos de agua.
 
 ### NDWBI
-
-
-
+Continuando con el análsis de los cuerpos de agua, este índice según lo espuesto por McFEETERS (1996) 
+>*El NDWI hace uso de la radiación infrarroja cercana reflejada y la luz verde visible para mejorar la presencia de tales características al tiempo que elimina la presencia de características de la vegetación terrestre y del suelo.*
+Al realizar la comparación con el NDWI se puede entender que la banda de luz verde utilizada en el álgebra de bandas genera que las zonas con vegetación no tengan reflectancia y se puede apreciar aún con mayor facilidad el caudal de los ríos y las lagunas presentes en la cuenca.
