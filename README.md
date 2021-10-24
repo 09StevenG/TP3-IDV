@@ -51,4 +51,11 @@ Imagen
 ### NDWBI
 Continuando con el análsis de los cuerpos de agua, este índice según lo espuesto por McFEETERS (1996) 
 >*El NDWI hace uso de la radiación infrarroja cercana reflejada y la luz verde visible para mejorar la presencia de tales características al tiempo que elimina la presencia de características de la vegetación terrestre y del suelo.*
+
 Al realizar la comparación con el NDWI se puede entender que la banda de luz verde utilizada en el álgebra de bandas genera que las zonas con vegetación no tengan reflectancia y se puede apreciar aún con mayor facilidad el caudal de los ríos y las lagunas presentes en la cuenca.
+
+### NDBI
+El NDBI o Índice de Diferencia Normalizada Edificada identifica las zonas urbanas, por la particularidad de la cuenca Bebedero se presentan ciudades importantes como Cañas, Nicoya o Tilaran que generan una reflectancia caracterizada por tonalidades grises. Diferenciándose de la gran cobertura de vegetación y suelos de cultivo presentes en la región.
+> Tal como se expone en la página web Gis and Beers () Al igual que en índices análogos (como el NDWI o el NDVI) el intervalo de valores resultantes oscila entre -1 y 1, donde aquellos valores de tendencia negativa indican presencia de zonas con vegetación. Valores intermedios comienzan a determinar zonas desnudas, cultivos en crecimiento o zonas o en fase de construcción a medida que adquieren valores de tendencia positivos elevados para indicar zonas territoriales con coberturas de suelo edificadas o infraestructuras antrópicas.
+
+Imagen
