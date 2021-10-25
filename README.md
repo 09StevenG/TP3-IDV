@@ -59,7 +59,7 @@ Utiliza NIR: Banda infrarroja cercano junta a SWIR: Banda infrarroja de onda cor
 > El trabajo desarrollado por Segura (2020) es un claro ejemplo de la utilidad de NDWI pues se presenta esa interacción con la unidad de suelo y el índice NDVI direccionando los esfuerzos para conocer el estrés hídrico que sufre el cultivo de caña de azúcar en la cuenca de Bebedero y Tempisque. La mayor cantidad de agua disponibles es utilizada para el riego de cultivos por ello resulta sumamente importante el monitoreo de estos cuerpos de agua.
 
 ### NDWBI
-Continuando con el análsis de los cuerpos de agua, este índice según lo espuesto por McFEETERS (1996) 
+Continuando con el análisis de los cuerpos de agua, este índice según lo espuesto por McFEETERS (1996) 
 >*El NDWI hace uso de la radiación infrarroja cercana reflejada y la luz verde visible para mejorar la presencia de tales características al tiempo que elimina la presencia de características de la vegetación terrestre y del suelo.*
 
 ![](NDWBI.png)
@@ -99,14 +99,15 @@ En este caso se utilizó el índice NDVI. Existe una fluctuación constante del 
 
 Bazán Barrios, A. (2021). Determinación de la Severidad de Incendios a partir de Imágenes SENTINEL-2.
 
-Hassan, M. A., Yang, M., Rasheed, A., Yang, G., Reynolds, M., Xia, X., ... & He, Z. (2019). A rapid monitoring of NDVI across the wheat growth cycle for grain yield prediction using a multi-spectral UAV platform. Plant science, 282, 95-103.
-
 Borja Escobar, C. D. (2020). Análisis de la variabilidad espacio-temporal del índice de vegetación mejorado (EVI) y su relación con índices atmosféricos globales en el páramo ecuatoriano (Bachelor's thesis, Quito, 2020).
 
-Muñoz, P. S. R., & Burdett, E. (2019). Evolución de la cobertura forestal en los alcornocales próximos al estrecho de Gibraltar a través del índice de vegetación EVI. Ecosistemas, 28(3), 73-80.
+Hassan, M. A., Yang, M., Rasheed, A., Yang, G., Reynolds, M., Xia, X., ... & He, Z. (2019). A rapid monitoring of NDVI across the wheat growth cycle for grain yield prediction using a multi-spectral UAV platform. Plant science, 282, 95-103.
 
 Mena M. (2019). Evaluación de la sustentabilidad hídrica de las cuencas Tempisque y Bebedero mediante el modelo Water Evaluation and Planning System (WEAP) en 
 Guanacaste, Costa Rica (Tesis de Licenciatura). Universidad de Costa Rica, Costa Rica.
+
+Muñoz, P. S. R., & Burdett, E. (2019). Evolución de la cobertura forestal en los alcornocales próximos al estrecho de Gibraltar a través del índice de vegetación EVI. Ecosistemas, 28(3), 73-80.
+
 
 Reyes-Díez, A., Alcaraz-Segura, D., & Cabello-Piñar, J. (2015). Implicaciones del filtrado de calidad del índice de vegetación EVI para el seguimiento funcional de ecosistemas. Revista De Teledetección, 2015, 11-29.
 Rojas, N. (2011). Estudio de Cuencas Hidrográficas de Costa Rica. Cuenca del Río Bebedero Obtenido de http://cglobal.imn.ac.cr/documentos/publicaciones/EstudioCuencas/EstudioCuencas-cuencaRioBebedero.pdf
