@@ -89,9 +89,10 @@ contrastes entre estación seca y estación lluvioso?
 
 ![](Grafico.png)
 
-En este caso se utilizó el índice NDVi. Existe una fluctuación constante del valor NDVI.Realizando la interpretación del gráfico resultante, se aprecia como al inicio del año se presenta una regularidad con valores muy altos del NDVI, esto puede responder al punto roi que se utilizó para generar el producto, pues es un área de vegetación densa. De igual forma en el mes de Abril se aprecia un declive fuerte del valor quizá por la incidencia de nubosidad en la zona, aspecto que se repite en el mes de Octubre, mencionado anteriormente como la época más lluviosa de la cuenca.  
+En este caso se utilizó el índice NDVI. Existe una fluctuación constante del valor NDVI.Realizando la interpretación del gráfico resultante, se aprecia como al inicio del año se presenta una regularidad con valores muy altos del NDVI, esto puede responder al punto roi que se utilizó para generar el producto, pues es un área de vegetación densa. De igual forma en el mes de Abril se aprecia un declive fuerte del valor quizá por la incidencia de nubosidad en la zona, aspecto que se repite en el mes de Octubre, mencionado anteriormente como la época más lluviosa de la cuenca.  
 
-> *´´en un sistema de seguimiento y alerta basado en telede-tección, una variación en los datos podría suponer una falsa alerta que ponga en guardia a los gesto-res o, por el contrario, podría enmascarar cambios reales  en  la  vegetación  supongan  una  amenaza  para  el  ecosistema  bajo  seguimiento´´*(Reyes et al., 2015,p.13).  
+
+> **´´en un sistema de seguimiento y alerta basado en telede-tección, una variación en los datos podría suponer una falsa alerta que ponga en guardia a los gesto-res o, por el contrario, podría enmascarar cambios reales  en  la  vegetación  supongan  una  amenaza  para  el  ecosistema  bajo  seguimiento´´**(Reyes et al., 2015,p.13).  
 
 
 #### Referencias 
