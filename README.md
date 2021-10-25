@@ -74,4 +74,5 @@ Un índice que llama la atención pues permite apreciar la evolución de un ince
 >![](BAISN.png)
 >* El índice BAI es diseñado específicamente para la cartografía de las áreas quemadas, por lo que es un índice competente para la discriminación de las misma. Se basa en el concepto de distancia eucliadiana de cada uno de los píxeles de la imagen a un punto de la convergencia definido en un espacio biodimensional. Por lo tanto, resalta la tierra quemada desde el intervalo de longitudes de onda del rojo (R) al infrarrojo cercano (NIR), con el motivo de enfatizar la señal de quemado en imágenes posteriores al incendio.*(Bazán, 2021,p.11)
 
-
+![](BAIPAVONES.png)
+![](Pavones.png)
