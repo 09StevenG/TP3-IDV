@@ -68,7 +68,7 @@ Al realizar la comparación con el NDWI se puede entender que la banda de luz ve
 
 ### NDBI
 El NDBI o Índice de Diferencia Normalizada Edificada identifica las zonas urbanas, por la particularidad de la cuenca Bebedero se presentan ciudades importantes como Cañas, Nicoya o Tilaran que generan una reflectancia caracterizada por tonalidades grises. Diferenciándose de la gran cobertura de vegetación y suelos de cultivo presentes en la región.
-> Tal como se expone en la página web Gis and Beers () Al igual que en índices análogos (como el NDWI o el NDVI) el intervalo de valores resultantes oscila entre -1 y 1, donde aquellos valores de tendencia negativa indican presencia de zonas con vegetación. Valores intermedios comienzan a determinar zonas desnudas, cultivos en crecimiento o zonas o en fase de construcción a medida que adquieren valores de tendencia positivos elevados para indicar zonas territoriales con coberturas de suelo edificadas o infraestructuras antrópicas.
+> Tal como se expone en la página web [Gis and Beers](http://www.gisandbeers.com/calculo-indice-ndbi-analisis-urbanisticos/) Al igual que en índices análogos (como el NDWI o el NDVI) el intervalo de valores resultantes oscila entre -1 y 1, donde aquellos valores de tendencia negativa indican presencia de zonas con vegetación. Valores intermedios comienzan a determinar zonas desnudas, cultivos en crecimiento o zonas o en fase de construcción a medida que adquieren valores de tendencia positivos elevados para indicar zonas territoriales con coberturas de suelo edificadas o infraestructuras antrópicas.
 ![](NDBI.png)
 
 ### BAI 
