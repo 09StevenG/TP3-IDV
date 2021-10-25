@@ -83,6 +83,6 @@ Un índice que llama la atención pues permite apreciar la evolución de un ince
 - Escoja uno de los índices y ahora genere un gráfico para un periodo de un año. ¿Existe
 contrastes entre estación seca y estación lluvioso?
 
-![](Grap.png)
+![](Grafico.png)
 
-En este caso se utilizó el índice NDVi. Existe una fluctuación constante del valor NDVI. Al inicio del año se presenta una regularidad en cuanto a valores bajos  
+En este caso se utilizó el índice NDVi. Existe una fluctuación constante del valor NDVI.Realizando la interpretación del gráfico resultante, se aprecia como al inicio del año se presenta una regularidad con valores muy altos del NDVI, esto puede responder al punto roi que se utilizó para generar el producto, pues es un área de vegetación densa. De igual forma en el mes de Abril se aprecia un declive fuerte del valor quizá por la incidencia de nubosidad en la zona, aspecto que se repite en el mes de Octubre, mencionado anteriormente como la época más lluviosa de la cuenca.  
