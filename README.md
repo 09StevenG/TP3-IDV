@@ -89,7 +89,6 @@ En este caso se utilizó el índice NDVi. Existe una fluctuación constante del 
 
 > *en un sistema de seguimiento y alerta basado en telede-tección, una variación en los datos podría suponer una falsa alerta que ponga en guardia a los gesto-res o, por el contrario, podría enmascarar cambios reales  en  la  vegetación  supongan  una  amenaza  para  el  ecosistema  bajo  seguimiento*(Reyes et al., 2015,p.13).  
 
-(2) (PDF) Implicaciones del filtrado de calidad del índice de vegetación EVI para el seguimiento funcional de ecosistemas. Available from: https://www.researchgate.net/publication/279446475_Implicaciones_del_filtrado_de_calidad_del_indice_de_vegetacion_EVI_para_el_seguimiento_funcional_de_ecosistemas [accessed Oct 24 2021].
 
 #### Referencias 
 
@@ -103,3 +102,8 @@ Mena M. (2019). Evaluación de la sustentabilidad hídrica de las cuencas Tempis
 Guanacaste, Costa Rica (Tesis de Licenciatura). Universidad de Costa Rica, Costa Rica.
 
 Reyes-Díez, A., Alcaraz-Segura, D., & Cabello-Piñar, J. (2015). Implicaciones del filtrado de calidad del índice de vegetación EVI para el seguimiento funcional de ecosistemas. Revista De Teledetección, 2015, 11-29.
+Rojas, N. (2011). Estudio de Cuencas Hidrográficas de Costa Rica. Cuenca del Río Bebedero Obtenido de http://cglobal.imn.ac.cr/documentos/publicaciones/EstudioCuencas/EstudioCuencas-cuencaRioBebedero.pdf
+
+Segura Herrera, M. (2020). Correlación entre la unidad del suelo y los índices NDVI y NDWI como indicativo del estrés híbrido en el cultivo de caña de azúcar (Saccharum officinarum) en la variedad BC 001220, Ingenio Taboga 2019.
+
+S. K. McFEETERS (1996) The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features, International Journal of Remote Sensing, 17:7, 1425-1432, DOI: 10.1080/01431169608948714
