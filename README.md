@@ -87,6 +87,10 @@ contrastes entre estación seca y estación lluvioso?
 
 En este caso se utilizó el índice NDVi. Existe una fluctuación constante del valor NDVI.Realizando la interpretación del gráfico resultante, se aprecia como al inicio del año se presenta una regularidad con valores muy altos del NDVI, esto puede responder al punto roi que se utilizó para generar el producto, pues es un área de vegetación densa. De igual forma en el mes de Abril se aprecia un declive fuerte del valor quizá por la incidencia de nubosidad en la zona, aspecto que se repite en el mes de Octubre, mencionado anteriormente como la época más lluviosa de la cuenca.  
 
+> *en un sistema de seguimiento y alerta basado en telede-tección, una variación en los datos podría suponer una falsa alerta que ponga en guardia a los gesto-res o, por el contrario, podría enmascarar cambios reales  en  la  vegetación  supongan  una  amenaza  para  el  ecosistema  bajo  seguimiento*(Reyes et al., 2015,p.13).  
+
+(2) (PDF) Implicaciones del filtrado de calidad del índice de vegetación EVI para el seguimiento funcional de ecosistemas. Available from: https://www.researchgate.net/publication/279446475_Implicaciones_del_filtrado_de_calidad_del_indice_de_vegetacion_EVI_para_el_seguimiento_funcional_de_ecosistemas [accessed Oct 24 2021].
+
 #### Referencias 
 
 Hassan, M. A., Yang, M., Rasheed, A., Yang, G., Reynolds, M., Xia, X., ... & He, Z. (2019). A rapid monitoring of NDVI across the wheat growth cycle for grain yield prediction using a multi-spectral UAV platform. Plant science, 282, 95-103.
@@ -98,3 +102,4 @@ Muñoz, P. S. R., & Burdett, E. (2019). Evolución de la cobertura forestal en l
 Mena M. (2019). Evaluación de la sustentabilidad hídrica de las cuencas Tempisque y Bebedero mediante el modelo Water Evaluation and Planning System (WEAP) en 
 Guanacaste, Costa Rica (Tesis de Licenciatura). Universidad de Costa Rica, Costa Rica.
 
+Reyes-Díez, A., Alcaraz-Segura, D., & Cabello-Piñar, J. (2015). Implicaciones del filtrado de calidad del índice de vegetación EVI para el seguimiento funcional de ecosistemas. Revista De Teledetección, 2015, 11-29.
