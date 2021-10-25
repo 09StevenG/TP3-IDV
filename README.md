@@ -35,7 +35,7 @@ Al realizar el análisis se debe tener en cuenta que el pigmento de clorofila en
 Se observa una imagen más texturizada, sensible a los detalles y con más contraste en comparación con el NDVI, esto se debe a que este índice reduce la influencia de condiciones atmosféricas posibilitando  un mejor análisis. 
 Para la estación seca se escogió el periodo de enero a marzo, en este caso se presentan valores de píxel con mejor detalle pues la nubosidad no tiene influencia. 
 
-Para la estación lluviosa se escogió el mes de octubre ya que según Mena (2019) la máxima precipitación en esta región se presenta en el mes número 10, y por tanto como se puede apreciar en la imagen,  se surge una mayor nubosidad en la lectura de los valores. Sin embargo, en las zonas sin nubes y donde hay más absorción se puede observar que el EVI es mucho más alto que en la estación seca.
+Para la estación lluviosa se escogió el mes de octubre ya que según Mena (2019) la máxima precipitación en esta región se presenta en este mes, por lo tanto, tal como se aprecia en la imagen, surge una mayor nubosidad que influye en la lectura de los valores. Sin embargo, en las zonas sin nubes y donde hay más absorción se puede observar que el EVI es mucho más alto que en la estación seca.
 
 ![](EVI_Lluvioso.png)
 
