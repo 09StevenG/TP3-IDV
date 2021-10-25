@@ -79,3 +79,7 @@ Un índice que llama la atención pues permite apreciar la evolución de un ince
 ![](BAIPAVONES.png)
 ![](Pavones.png)
 > Pavones, Nandayure
+
+- Escoja uno de los índices y ahora genere un gráfico para un periodo de un año. ¿Existe
+contrastes entre estación seca y estación lluvioso?
+
