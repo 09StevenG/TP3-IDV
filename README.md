@@ -9,6 +9,9 @@ El propósito de esta práctica de laboratorio es brindarle un recorrido por los
 ## Procedimiento
 - Seleccione un área de estudio para implementar todos los índices (trabajar región
 Chorotega,para obtener más imágenes libre de nubes).
+> Cuenca Bebedero 
+> Esta cuenca tiene un área de 2.067,22 km2 lo que representa un 4.04% de la
+superficie nacional. 
 - Escoja una cuenca hidrográfica, realice el corte para adaptar todas.
 ![](Imagen1.png)
 
