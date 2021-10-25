@@ -83,3 +83,6 @@ Un índice que llama la atención pues permite apreciar la evolución de un ince
 - Escoja uno de los índices y ahora genere un gráfico para un periodo de un año. ¿Existe
 contrastes entre estación seca y estación lluvioso?
 
+![](Grap.png)
+
+En este caso se utilizó el índice NDV. Existe una fluctuación constante del valor NDVI durante cada mes. Al inicio del año se presenta una regularidad en cuanto a valortes bajos  
