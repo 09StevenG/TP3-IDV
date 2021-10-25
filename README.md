@@ -85,4 +85,4 @@ contrastes entre estación seca y estación lluvioso?
 
 ![](Grap.png)
 
-En este caso se utilizó el índice NDV. Existe una fluctuación constante del valor NDVI durante cada mes. Al inicio del año se presenta una regularidad en cuanto a valortes bajos  
+En este caso se utilizó el índice NDVi. Existe una fluctuación constante del valor NDVI. Al inicio del año se presenta una regularidad en cuanto a valores bajos  
