@@ -86,3 +86,15 @@ contrastes entre estación seca y estación lluvioso?
 ![](Grafico.png)
 
 En este caso se utilizó el índice NDVi. Existe una fluctuación constante del valor NDVI.Realizando la interpretación del gráfico resultante, se aprecia como al inicio del año se presenta una regularidad con valores muy altos del NDVI, esto puede responder al punto roi que se utilizó para generar el producto, pues es un área de vegetación densa. De igual forma en el mes de Abril se aprecia un declive fuerte del valor quizá por la incidencia de nubosidad en la zona, aspecto que se repite en el mes de Octubre, mencionado anteriormente como la época más lluviosa de la cuenca.  
+
+#### Referencias 
+
+Hassan, M. A., Yang, M., Rasheed, A., Yang, G., Reynolds, M., Xia, X., ... & He, Z. (2019). A rapid monitoring of NDVI across the wheat growth cycle for grain yield prediction using a multi-spectral UAV platform. Plant science, 282, 95-103.
+
+Borja Escobar, C. D. (2020). Análisis de la variabilidad espacio-temporal del índice de vegetación mejorado (EVI) y su relación con índices atmosféricos globales en el páramo ecuatoriano (Bachelor's thesis, Quito, 2020).
+
+Muñoz, P. S. R., & Burdett, E. (2019). Evolución de la cobertura forestal en los alcornocales próximos al estrecho de Gibraltar a través del índice de vegetación EVI. Ecosistemas, 28(3), 73-80.
+
+Mena M. (2019). Evaluación de la sustentabilidad hídrica de las cuencas Tempisque y Bebedero mediante el modelo Water Evaluation and Planning System (WEAP) en 
+Guanacaste, Costa Rica (Tesis de Licenciatura). Universidad de Costa Rica, Costa Rica.
+
