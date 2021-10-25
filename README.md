@@ -13,7 +13,9 @@ Chorotega,para obtener más imágenes libre de nubes).
 > *Esta cuenca tiene un área de 2.067,22 km2 lo que representa un 4.04% de la
 superficie nacional (Rojas , 2011)*.
 
-[Enlace al Código GEE](https://code.earthengine.google.com/1bd103c3644f15d1e34ad7a3b8c9dd13)
+> [Enlace al Código GEE](https://code.earthengine.google.com/1bd103c3644f15d1e34ad7a3b8c9dd13)
+
+
 - Escoja una cuenca hidrográfica, realice el corte para adaptar todas.
 ![](Imagen1.png)
 
